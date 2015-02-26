@@ -1,0 +1,12 @@
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\bin\Debug\WpfDeneme.exe
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\bin\Debug\WpfDeneme.pdb
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\obj\Debug\WpfDeneme.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\obj\Debug\MainWindow.baml
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\obj\Debug\MainWindow.g.cs
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\obj\Debug\App.g.cs
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\obj\Debug\WpfDeneme_MarkupCompile.cache
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\obj\Debug\WpfDeneme.g.resources
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\obj\Debug\WpfDeneme.Properties.Resources.resources
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\obj\Debug\WpfDeneme.csproj.GenerateResource.Cache
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\obj\Debug\WpfDeneme.exe
+C:\Users\Yusuf\Documents\GitHub\FirstAppSample\WpfDeneme\obj\Debug\WpfDeneme.pdb
